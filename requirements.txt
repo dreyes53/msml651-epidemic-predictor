@@ -1,0 +1,10 @@
+dask==2024.12.1
+dask-cuda==25.2.0
+dask-cudf-cu12==25.2.2
+dask-expr==1.1.21
+matplotlib==3.10.0
+numpy==2.0.2
+pandas==2.2.2
+scikit-learn==1.6.1
+tensorflow==2.18.0
+xgboost==2.1.4
