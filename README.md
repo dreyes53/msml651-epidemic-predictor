@@ -3,17 +3,17 @@
 ## 🔹 Overview
 This project implements a **hybrid machine learning model** that combines **XGBoost (gradient boosting)** for structured feature extraction and **GRU (Gated Recurrent Units)** for time-series forecasting. The model is designed to improve prediction accuracy for sequential datasets.
 
-## Installation
-To install the required dependencies, run:
-```sh
-pip install -r requirements.txt
-```
-
 ## Clone Repository
 First, clone the repository:
 ```sh
 git clone https://github.com/dreyes53/msml651-epidemic-predictor
 cd msml651-epidemic-predictor
+```
+
+## Installation
+To install the required dependencies, run:
+```sh
+pip install -r requirements.txt
 ```
 
 ## Running the Model
